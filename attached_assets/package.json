@@ -1,0 +1,213 @@
+{
+    "state": "created,DeviceSelected,TenureSelected",
+    "journeyType": "acquisition",
+    "segment": "consumer",
+    "subSegment": "consumer",
+    "packageBuildSummary": {
+        "deviceName": "Apple iPhone 16 Pro Max 256GB Desert Titanium",
+        "deviceTenure": {
+            "value": 36,
+            "uom": "month"
+        },
+        "deviceUpfrontCost": {
+            "gross": {
+                "uom": "GBP",
+                "value": 50
+            },
+            "net": {
+                "uom": "GBP",
+                "value": 41.67
+            },
+            "vat": {
+                "uom": "GBP",
+                "value": 8.33
+            }
+        },
+        "deviceMonthlyCost": {
+            "gross": {
+                "uom": "GBP",
+                "value": 29
+            },
+            "net": {
+                "uom": "GBP",
+                "value": 24.17
+            },
+            "vat": {
+                "uom": "GBP",
+                "value": 4.83
+            }
+        },
+        "deviceTotalCost": {
+            "gross": {
+                "uom": "GBP",
+                "value": 1094
+            },
+            "net": {
+                "uom": "GBP",
+                "value": 911.67
+            },
+            "vat": {
+                "uom": "GBP",
+                "value": 182.33
+            }
+        },
+        "totalUpfrontCost": {
+            "gross": {
+                "uom": "GBP",
+                "value": 50
+            },
+            "net": {
+                "uom": "GBP",
+                "value": 41.67
+            },
+            "vat": {
+                "uom": "GBP",
+                "value": 8.33
+            }
+        },
+        "totalMonthlyCost": {
+            "gross": {
+                "uom": "GBP",
+                "value": 29
+            },
+            "net": {
+                "uom": "GBP",
+                "value": 24.17
+            },
+            "vat": {
+                "uom": "GBP",
+                "value": 4.83
+            }
+        },
+        "buildSteps": [
+            {
+                "name": "Device",
+                "done": true
+            },
+            {
+                "name": "Plan",
+                "done": false
+            },
+            {
+                "name": "Insurance",
+                "done": false
+            },
+            {
+                "name": "Add-ons",
+                "done": false
+            },
+            {
+                "name": "Accessories",
+                "done": false
+            },
+            {
+                "name": "Business-Apps",
+                "done": false
+            }
+        ],
+        "cta": {
+            "name": "Continue",
+            "isEnabled": false
+        }
+    },
+    "_links": {
+        "get-device-group-journey": {
+            "href": "/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys/latest?segment=consumer",
+            "type": "GET",
+            "parameters": {
+                "make": "apple",
+                "platformSessionId": "7e931db3-b143-4f23-b059-fb3112dc7dfb",
+                "model": "iphone-16-pro-max"
+            }
+        },
+        "create-device-group-journey": {
+            "href": "/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys?segment=consumer",
+            "type": "POST",
+            "parameters": {
+                "make": "apple",
+                "segment": "consumer",
+                "platformSessionId": "7e931db3-b143-4f23-b059-fb3112dc7dfb",
+                "model": "iphone-16-pro-max"
+            }
+        },
+        "get-device-variants": {
+            "href": "/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys/b77f3097-d186-4ec2-a86a-7ba95c731594/device-variants",
+            "type": "GET",
+            "parameters": {
+                "make": "apple",
+                "journeyId": "b77f3097-d186-4ec2-a86a-7ba95c731594",
+                "platformSessionId": "7e931db3-b143-4f23-b059-fb3112dc7dfb",
+                "model": "iphone-16-pro-max"
+            }
+        },
+        "get-insurance-options": {
+            "href": "/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys/b77f3097-d186-4ec2-a86a-7ba95c731594/device-variants/222520/insurance-options",
+            "type": "GET",
+            "parameters": {
+                "deviceId": "222520",
+                "make": "apple",
+                "journeyId": "b77f3097-d186-4ec2-a86a-7ba95c731594",
+                "platformSessionId": "7e931db3-b143-4f23-b059-fb3112dc7dfb",
+                "model": "iphone-16-pro-max"
+            }
+        },
+        "get-specification": {
+            "href": "/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys/b77f3097-d186-4ec2-a86a-7ba95c731594/device-variants/222520/specification",
+            "type": "GET",
+            "parameters": {
+                "deviceId": "222520",
+                "make": "apple",
+                "journeyId": "b77f3097-d186-4ec2-a86a-7ba95c731594",
+                "platformSessionId": "7e931db3-b143-4f23-b059-fb3112dc7dfb",
+                "model": "iphone-16-pro-max"
+            }
+        },
+        "set-dgj-segment": {
+            "href": "/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys/b77f3097-d186-4ec2-a86a-7ba95c731594",
+            "type": "PATCH",
+            "parameters": {
+                "make": "apple",
+                "journeyId": "b77f3097-d186-4ec2-a86a-7ba95c731594",
+                "segment": "business",
+                "platformSessionId": "7e931db3-b143-4f23-b059-fb3112dc7dfb",
+                "model": "iphone-16-pro-max"
+            }
+        },
+        "set-trade-in": {
+            "href": "/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys/b77f3097-d186-4ec2-a86a-7ba95c731594/device-variants",
+            "type": "PATCH",
+            "parameters": {
+                "deviceId": "222520",
+                "make": "apple",
+                "journeyId": "b77f3097-d186-4ec2-a86a-7ba95c731594",
+                "tradeInSelected": true,
+                "platformSessionId": "7e931db3-b143-4f23-b059-fb3112dc7dfb",
+                "model": "iphone-16-pro-max"
+            }
+        },
+        "select-device-variant-tenure": {
+            "href": "/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys/b77f3097-d186-4ec2-a86a-7ba95c731594/package",
+            "type": "PATCH",
+            "parameters": {
+                "deviceMonthlyPrice": 29,
+                "make": "apple",
+                "upfrontPrice": 50,
+                "tenure": "36",
+                "journeyId": "b77f3097-d186-4ec2-a86a-7ba95c731594",
+                "platformSessionId": "7e931db3-b143-4f23-b059-fb3112dc7dfb",
+                "model": "iphone-16-pro-max"
+            }
+        },
+        "get-plans": {
+            "href": "/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys/b77f3097-d186-4ec2-a86a-7ba95c731594/device-variants/222520/plans",
+            "type": "GET",
+            "parameters": {
+                "deviceId": "222520",
+                "make": "apple",
+                "journeyId": "b77f3097-d186-4ec2-a86a-7ba95c731594",
+                "platformSessionId": "7e931db3-b143-4f23-b059-fb3112dc7dfb",
+                "model": "iphone-16-pro-max"
+            }
+        }
+    }
+}

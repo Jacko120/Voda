@@ -1,0 +1,1707 @@
+{
+    "plans": [
+        {
+            "name": "5GB Xtra",
+            "commitmentPeriod": "24 Months",
+            "isSelected": false,
+            "allowances": [
+                {
+                    "type": "ORIGDATA",
+                    "value": "5",
+                    "uom": "GB"
+                },
+                {
+                    "type": "DATA",
+                    "value": "5",
+                    "uom": "GB"
+                }
+            ],
+            "oneOffPrice": {
+                "gross": {
+                    "uom": "GBP",
+                    "value": 50
+                },
+                "net": {
+                    "uom": "GBP",
+                    "value": 41.67
+                },
+                "vat": {
+                    "uom": "GBP",
+                    "value": 8.33
+                }
+            },
+            "originaloneOffPrice": {
+                "gross": {
+                    "uom": "GBP",
+                    "value": 50
+                },
+                "net": {
+                    "uom": "GBP",
+                    "value": 41.67
+                },
+                "vat": {
+                    "uom": "GBP",
+                    "value": 8.33
+                }
+            },
+            "eligiblePromotions": {
+                "pricingPromotions": {
+                    "sashBanner": "Save up to £360 on Airtime Plan",
+                    "promotions": [
+                        {
+                            "tag": "cfd12174310gbp36s0514e0612",
+                            "label": "Save up to £360 on Airtime Plan",
+                            "labelWithSavings": "Save £360 achieved by £10 per month saving over 36 months",
+                            "discountId": "121743",
+                            "description": "Save up to £360 on Airtime Plan",
+                            "mpType": "conditional_full_discount",
+                            "priceEstablishedLabel": "Was",
+                            "priority": 112039,
+                            "packageType": [
+                                "SecondLine",
+                                "Upgrade",
+                                "Acquisition"
+                            ],
+                            "footNotes": [
+                                "cfd12174310gbp36s0514e0612"
+                            ],
+                            "belowTheLine": false,
+                            "discountDetails": {
+                                "type": "GBP",
+                                "value": 8.33,
+                                "duration": {
+                                    "uom": "Months",
+                                    "value": 36
+                                }
+                            },
+                            "savingsAmount": {
+                                "gross": "10",
+                                "net": "8.33",
+                                "vat": "1.67"
+                            },
+                            "savingAmount": {
+                                "uom": "£",
+                                "net": 8.33,
+                                "vat": 1.67,
+                                "gross": 10
+                            },
+                            "totalContractSavings": {
+                                "gross": "360",
+                                "net": "299.88",
+                                "vat": "60.12"
+                            },
+                            "totalContractSaving": {
+                                "uom": "£",
+                                "net": 299.88,
+                                "vat": 60.12,
+                                "gross": 360
+                            }
+                        }
+                    ]
+                },
+                "pricePromotions": {
+                    "monthlyPricePromotions": [
+                        {
+                            "tag": "cfd12174310gbp36s0514e0612",
+                            "name": "Save up to £360 on Airtime Plan",
+                            "labelWithSavings": "Save £360 achieved by £10 per month saving over 36 months",
+                            "type": "conditional_full_discount",
+                            "priceEstablishedLabel": "Was",
+                            "savingsAmount": {
+                                "gross": {
+                                    "uom": "GBP",
+                                    "value": 10
+                                },
+                                "net": {
+                                    "uom": "GBP",
+                                    "value": 8.33
+                                },
+                                "vat": {
+                                    "uom": "GBP",
+                                    "value": 1.67
+                                }
+                            },
+                            "priority": 112039,
+                            "totalContractSavings": {
+                                "gross": {
+                                    "uom": "GBP",
+                                    "value": 360
+                                },
+                                "net": {
+                                    "uom": "GBP",
+                                    "value": 299.88
+                                },
+                                "vat": {
+                                    "uom": "GBP",
+                                    "value": 60.12
+                                }
+                            },
+                            "duration": {
+                                "value": 36,
+                                "uom": "Months"
+                            }
+                        }
+                    ],
+                    "totalMonthlySavingsAmount": {
+                        "gross": {
+                            "uom": "GBP",
+                            "value": 10
+                        },
+                        "net": {
+                            "uom": "GBP",
+                            "value": 8.33
+                        },
+                        "vat": {
+                            "uom": "GBP",
+                            "value": 1.67
+                        }
+                    },
+                    "totalContractSavingsAmount": {
+                        "gross": {
+                            "uom": "GBP",
+                            "value": 360
+                        },
+                        "net": {
+                            "uom": "GBP",
+                            "value": 299.88
+                        },
+                        "vat": {
+                            "uom": "GBP",
+                            "value": 60.12
+                        }
+                    }
+                }
+            },
+            "prices": {
+                "monthlyPrices": {
+                    "currentPrice": {
+                        "uom": "£",
+                        "net": 43.34,
+                        "vat": 8.66,
+                        "gross": 52
+                    },
+                    "discountPrice": {
+                        "uom": "£",
+                        "net": 35.01,
+                        "vat": 6.99,
+                        "gross": 42
+                    }
+                },
+                "monthlySavings": {
+                    "currentSavings": {
+                        "uom": "£",
+                        "net": 0,
+                        "vat": 0,
+                        "gross": 0
+                    },
+                    "discountSavings": {
+                        "uom": "£",
+                        "net": 8.33,
+                        "vat": 1.67,
+                        "gross": 10
+                    },
+                    "totalSavings": {
+                        "uom": "£",
+                        "net": 8.33,
+                        "vat": 1.67,
+                        "gross": 10
+                    }
+                },
+                "contractSavings": {
+                    "currentSavings": {
+                        "uom": "£",
+                        "net": 0,
+                        "vat": 0,
+                        "gross": 0
+                    },
+                    "discountSavings": {
+                        "uom": "£",
+                        "net": 299.88,
+                        "vat": 60.12,
+                        "gross": 360
+                    },
+                    "totalSavings": {
+                        "uom": "£",
+                        "net": 299.88,
+                        "vat": 60.12,
+                        "gross": 360
+                    }
+                }
+            },
+            "planPrices": {
+                "monthlyPrices": {
+                    "currentPrice": {
+                        "uom": "£",
+                        "net": 19.17,
+                        "vat": 3.83,
+                        "gross": 23
+                    },
+                    "discountPrice": {
+                        "uom": "£",
+                        "net": 10.84,
+                        "vat": 2.16,
+                        "gross": 13
+                    }
+                },
+                "monthlySavings": {
+                    "currentSavings": {
+                        "uom": "£",
+                        "net": 0,
+                        "vat": 0,
+                        "gross": 0
+                    },
+                    "discountSavings": {
+                        "uom": "£",
+                        "net": 8.33,
+                        "vat": 1.67,
+                        "gross": 10
+                    },
+                    "totalSavings": {
+                        "uom": "£",
+                        "net": 8.33,
+                        "vat": 1.67,
+                        "gross": 10
+                    }
+                },
+                "contractSavings": {
+                    "currentSavings": {
+                        "uom": "£",
+                        "net": 0,
+                        "vat": 0,
+                        "gross": 0
+                    },
+                    "discountSavings": {
+                        "uom": "£",
+                        "net": 299.88,
+                        "vat": 60.12,
+                        "gross": 360
+                    },
+                    "totalSavings": {
+                        "uom": "£",
+                        "net": 299.88,
+                        "vat": 60.12,
+                        "gross": 360
+                    }
+                }
+            },
+            "sashBannerPromotion": "Save up to £360 on Airtime Plan",
+            "planPricingPromotion": "Save up to £360 on Airtime Plan",
+            "footNoteCmsIds": [
+                "cfd12174310gbp36s0514e0612"
+            ],
+            "notificationObject": [
+                {
+                    "code": "saving_device-purchase_get-plans_preferential_exact",
+                    "gross": {
+                        "value": 3,
+                        "uom": "GBP"
+                    },
+                    "net": {
+                        "value": 2.5,
+                        "uom": "GBP"
+                    },
+                    "vat": {
+                        "value": 0.5,
+                        "uom": "GBP"
+                    },
+                    "rewardLine": "BroadBand"
+                }
+            ],
+            "type": "RED",
+            "subType": "red100mbps",
+            "inclusiveProducts": [
+                {
+                    "id": "030060",
+                    "benefitType": "Advertisement",
+                    "premiumBenefit": true
+                },
+                {
+                    "id": "030050",
+                    "benefitType": "Advertisement",
+                    "premiumBenefit": true
+                },
+                {
+                    "id": "030010",
+                    "benefitType": "Advertisement",
+                    "premiumBenefit": true
+                },
+                {
+                    "id": "104922",
+                    "name": "Unlimited Picture Messages",
+                    "benefitType": "Product",
+                    "premiumBenefit": true
+                },
+                {
+                    "id": "111871",
+                    "name": "Speed: Maximum download of 100 Mbps",
+                    "premiumBenefit": false
+                }
+            ],
+            "badgeUrl": "https://cdn.vodafone.co.uk/en/assets/images/desktop/5g_badge_digital.png",
+            "topRecommendedPlan": false,
+            "aomRecommended": false,
+            "planDeviceGroups": [
+                8,
+                7,
+                0
+            ],
+            "planBand": "BRONZE",
+            "features": {
+                "supports5G": true,
+                "supports5GUltra": false,
+                "isCobraBenefitAvailable": false,
+                "isTradeUpBenefitAvailable": false,
+                "isXtraPriorityBenefitAvailable": false
+            },
+            "primaryPromotion": {
+                "tag": "cfd12174310gbp36s0514e0612",
+                "name": "Save up to £360 on Airtime Plan",
+                "labelWithSavings": "Save £360 achieved by £10 per month saving over 36 months",
+                "type": "conditional_full_discount",
+                "priceEstablishedLabel": "Was",
+                "isSpecialPromotionDeal": false,
+                "savingsAmount": {
+                    "gross": {
+                        "uom": "GBP",
+                        "value": 10
+                    },
+                    "net": {
+                        "uom": "GBP",
+                        "value": 8.33
+                    },
+                    "vat": {
+                        "uom": "GBP",
+                        "value": 1.67
+                    }
+                },
+                "priority": 112039,
+                "totalContractSavings": {
+                    "gross": {
+                        "uom": "GBP",
+                        "value": 360
+                    },
+                    "net": {
+                        "uom": "GBP",
+                        "value": 299.88
+                    },
+                    "vat": {
+                        "uom": "GBP",
+                        "value": 60.12
+                    }
+                },
+                "duration": {
+                    "value": 36,
+                    "uom": "Months"
+                }
+            },
+            "bundlePriceRise": [
+                {
+                    "monthlyPrice": {
+                        "uom": "£",
+                        "net": 12.34,
+                        "vat": 2.46,
+                        "gross": 14.8
+                    },
+                    "text": "on 1 April 2026"
+                },
+                {
+                    "monthlyPrice": {
+                        "uom": "£",
+                        "net": 13.84,
+                        "vat": 2.76,
+                        "gross": 16.6
+                    },
+                    "text": "on 1 April 2027"
+                },
+                {
+                    "monthlyPrice": {
+                        "uom": "£",
+                        "net": 13.84,
+                        "vat": 2.76,
+                        "gross": 16.6
+                    }
+                }
+            ],
+            "bundleAndHardwarePriceRise": [
+                {
+                    "monthlyPrice": {
+                        "uom": "£",
+                        "net": 36.51,
+                        "vat": 7.29,
+                        "gross": 43.8
+                    },
+                    "text": "on 1 April 2026"
+                },
+                {
+                    "monthlyPrice": {
+                        "uom": "£",
+                        "net": 38.01,
+                        "vat": 7.59,
+                        "gross": 45.6
+                    },
+                    "text": "on 1 April 2027"
+                }
+            ],
+            "monthlyPrice": {
+                "gross": {
+                    "uom": "GBP",
+                    "value": 13
+                },
+                "net": {
+                    "uom": "GBP",
+                    "value": 10.84
+                },
+                "vat": {
+                    "uom": "GBP",
+                    "value": 2.16
+                }
+            },
+            "originalMonthlyPrice": {
+                "gross": {
+                    "uom": "GBP",
+                    "value": 23
+                },
+                "net": {
+                    "uom": "GBP",
+                    "value": 19.17
+                },
+                "vat": {
+                    "uom": "GBP",
+                    "value": 3.83
+                }
+            },
+            "_links": {
+                "select-plan": {
+                    "href": "/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys/b77f3097-d186-4ec2-a86a-7ba95c731594/package",
+                    "type": "PATCH",
+                    "parameters": {
+                        "make": "apple",
+                        "preBuilt": true,
+                        "planId": "121887",
+                        "consumerPlus": true,
+                        "securenetFreeTrialAvailable": false,
+                        "commitmentPeriod": "24 Months",
+                        "journeyId": "b77f3097-d186-4ec2-a86a-7ba95c731594",
+                        "platformSessionId": "7e931db3-b143-4f23-b059-fb3112dc7dfb",
+                        "model": "iphone-16-pro-max",
+                        "productLines": "CTR 25 EVO,Mobile phone service Sellable,Mobile phone service Sellable_NLFL,Mobile phone service Sellable_PrePost,Band Bronze,Any Sales Admin Channel non Indirect"
+                    }
+                }
+            },
+            "id": "121887"
+        },
+        {
+            "name": "30GB Xtra",
+            "commitmentPeriod": "24 Months",
+            "isSelected": false,
+            "allowances": [
+                {
+                    "type": "ORIGDATA",
+                    "value": "30",
+                    "uom": "GB"
+                },
+                {
+                    "type": "DATA",
+                    "value": "30",
+                    "uom": "GB"
+                }
+            ],
+            "oneOffPrice": {
+                "gross": {
+                    "uom": "GBP",
+                    "value": 50
+                },
+                "net": {
+                    "uom": "GBP",
+                    "value": 41.67
+                },
+                "vat": {
+                    "uom": "GBP",
+                    "value": 8.33
+                }
+            },
+            "originaloneOffPrice": {
+                "gross": {
+                    "uom": "GBP",
+                    "value": 50
+                },
+                "net": {
+                    "uom": "GBP",
+                    "value": 41.67
+                },
+                "vat": {
+                    "uom": "GBP",
+                    "value": 8.33
+                }
+            },
+            "eligiblePromotions": {
+                "pricingPromotions": {
+                    "sashBanner": "Save up to £252 on Airtime Plan",
+                    "promotions": [
+                        {
+                            "tag": "cfd1217407gbp36s0514e0612",
+                            "label": "Save up to £252 on Airtime Plan",
+                            "labelWithSavings": "Save £252 achieved by £7 per month saving over 36 months",
+                            "discountId": "121740",
+                            "description": "Save up to £252 on Airtime Plan",
+                            "mpType": "conditional_full_discount",
+                            "priceEstablishedLabel": "Was",
+                            "priority": 112037,
+                            "packageType": [
+                                "SecondLine",
+                                "Upgrade",
+                                "Acquisition"
+                            ],
+                            "footNotes": [
+                                "cfd1217407gbp36s0514e0612"
+                            ],
+                            "belowTheLine": false,
+                            "discountDetails": {
+                                "type": "GBP",
+                                "value": 5.83,
+                                "duration": {
+                                    "uom": "Months",
+                                    "value": 36
+                                }
+                            },
+                            "savingsAmount": {
+                                "gross": "7",
+                                "net": "5.83",
+                                "vat": "1.17"
+                            },
+                            "savingAmount": {
+                                "uom": "£",
+                                "net": 5.83,
+                                "vat": 1.17,
+                                "gross": 7
+                            },
+                            "totalContractSavings": {
+                                "gross": "252",
+                                "net": "209.88",
+                                "vat": "42.12"
+                            },
+                            "totalContractSaving": {
+                                "uom": "£",
+                                "net": 209.88,
+                                "vat": 42.12,
+                                "gross": 252
+                            }
+                        }
+                    ]
+                },
+                "pricePromotions": {
+                    "monthlyPricePromotions": [
+                        {
+                            "tag": "cfd1217407gbp36s0514e0612",
+                            "name": "Save up to £252 on Airtime Plan",
+                            "labelWithSavings": "Save £252 achieved by £7 per month saving over 36 months",
+                            "type": "conditional_full_discount",
+                            "priceEstablishedLabel": "Was",
+                            "savingsAmount": {
+                                "gross": {
+                                    "uom": "GBP",
+                                    "value": 7
+                                },
+                                "net": {
+                                    "uom": "GBP",
+                                    "value": 5.83
+                                },
+                                "vat": {
+                                    "uom": "GBP",
+                                    "value": 1.17
+                                }
+                            },
+                            "priority": 112037,
+                            "totalContractSavings": {
+                                "gross": {
+                                    "uom": "GBP",
+                                    "value": 252
+                                },
+                                "net": {
+                                    "uom": "GBP",
+                                    "value": 209.88
+                                },
+                                "vat": {
+                                    "uom": "GBP",
+                                    "value": 42.12
+                                }
+                            },
+                            "duration": {
+                                "value": 36,
+                                "uom": "Months"
+                            }
+                        }
+                    ],
+                    "totalMonthlySavingsAmount": {
+                        "gross": {
+                            "uom": "GBP",
+                            "value": 7
+                        },
+                        "net": {
+                            "uom": "GBP",
+                            "value": 5.83
+                        },
+                        "vat": {
+                            "uom": "GBP",
+                            "value": 1.17
+                        }
+                    },
+                    "totalContractSavingsAmount": {
+                        "gross": {
+                            "uom": "GBP",
+                            "value": 252
+                        },
+                        "net": {
+                            "uom": "GBP",
+                            "value": 209.88
+                        },
+                        "vat": {
+                            "uom": "GBP",
+                            "value": 42.12
+                        }
+                    }
+                }
+            },
+            "prices": {
+                "monthlyPrices": {
+                    "currentPrice": {
+                        "uom": "£",
+                        "net": 45.84,
+                        "vat": 9.16,
+                        "gross": 55
+                    },
+                    "discountPrice": {
+                        "uom": "£",
+                        "net": 40.01,
+                        "vat": 7.99,
+                        "gross": 48
+                    }
+                },
+                "monthlySavings": {
+                    "currentSavings": {
+                        "uom": "£",
+                        "net": 0,
+                        "vat": 0,
+                        "gross": 0
+                    },
+                    "discountSavings": {
+                        "uom": "£",
+                        "net": 5.83,
+                        "vat": 1.17,
+                        "gross": 7
+                    },
+                    "totalSavings": {
+                        "uom": "£",
+                        "net": 5.83,
+                        "vat": 1.17,
+                        "gross": 7
+                    }
+                },
+                "contractSavings": {
+                    "currentSavings": {
+                        "uom": "£",
+                        "net": 0,
+                        "vat": 0,
+                        "gross": 0
+                    },
+                    "discountSavings": {
+                        "uom": "£",
+                        "net": 209.88,
+                        "vat": 42.12,
+                        "gross": 252
+                    },
+                    "totalSavings": {
+                        "uom": "£",
+                        "net": 209.88,
+                        "vat": 42.12,
+                        "gross": 252
+                    }
+                }
+            },
+            "planPrices": {
+                "monthlyPrices": {
+                    "currentPrice": {
+                        "uom": "£",
+                        "net": 21.67,
+                        "vat": 4.33,
+                        "gross": 26
+                    },
+                    "discountPrice": {
+                        "uom": "£",
+                        "net": 15.84,
+                        "vat": 3.16,
+                        "gross": 19
+                    }
+                },
+                "monthlySavings": {
+                    "currentSavings": {
+                        "uom": "£",
+                        "net": 0,
+                        "vat": 0,
+                        "gross": 0
+                    },
+                    "discountSavings": {
+                        "uom": "£",
+                        "net": 5.83,
+                        "vat": 1.17,
+                        "gross": 7
+                    },
+                    "totalSavings": {
+                        "uom": "£",
+                        "net": 5.83,
+                        "vat": 1.17,
+                        "gross": 7
+                    }
+                },
+                "contractSavings": {
+                    "currentSavings": {
+                        "uom": "£",
+                        "net": 0,
+                        "vat": 0,
+                        "gross": 0
+                    },
+                    "discountSavings": {
+                        "uom": "£",
+                        "net": 209.88,
+                        "vat": 42.12,
+                        "gross": 252
+                    },
+                    "totalSavings": {
+                        "uom": "£",
+                        "net": 209.88,
+                        "vat": 42.12,
+                        "gross": 252
+                    }
+                }
+            },
+            "sashBannerPromotion": "Save up to £252 on Airtime Plan",
+            "planPricingPromotion": "Save up to £252 on Airtime Plan",
+            "footNoteCmsIds": [
+                "cfd1217407gbp36s0514e0612"
+            ],
+            "notificationObject": [
+                {
+                    "code": "saving_device-purchase_get-plans_preferential_exact",
+                    "gross": {
+                        "value": 3,
+                        "uom": "GBP"
+                    },
+                    "net": {
+                        "value": 2.5,
+                        "uom": "GBP"
+                    },
+                    "vat": {
+                        "value": 0.5,
+                        "uom": "GBP"
+                    },
+                    "rewardLine": "BroadBand"
+                }
+            ],
+            "type": "RED",
+            "subType": "red100mbps",
+            "inclusiveProducts": [
+                {
+                    "id": "030060",
+                    "benefitType": "Advertisement",
+                    "premiumBenefit": true
+                },
+                {
+                    "id": "030050",
+                    "benefitType": "Advertisement",
+                    "premiumBenefit": true
+                },
+                {
+                    "id": "030010",
+                    "benefitType": "Advertisement",
+                    "premiumBenefit": true
+                },
+                {
+                    "id": "104922",
+                    "name": "Unlimited Picture Messages",
+                    "benefitType": "Product",
+                    "premiumBenefit": true
+                },
+                {
+                    "id": "111871",
+                    "name": "Speed: Maximum download of 100 Mbps",
+                    "premiumBenefit": false
+                }
+            ],
+            "badgeUrl": "https://cdn.vodafone.co.uk/en/assets/images/desktop/5g_badge_digital.png",
+            "topRecommendedPlan": false,
+            "aomRecommended": false,
+            "planDeviceGroups": [
+                8,
+                7,
+                0
+            ],
+            "planBand": "BRONZE",
+            "preBuiltPlanLabel": "Our top pick",
+            "features": {
+                "supports5G": true,
+                "supports5GUltra": false,
+                "isCobraBenefitAvailable": false,
+                "isTradeUpBenefitAvailable": false,
+                "isXtraPriorityBenefitAvailable": false
+            },
+            "primaryPromotion": {
+                "tag": "cfd1217407gbp36s0514e0612",
+                "name": "Save up to £252 on Airtime Plan",
+                "labelWithSavings": "Save £252 achieved by £7 per month saving over 36 months",
+                "type": "conditional_full_discount",
+                "priceEstablishedLabel": "Was",
+                "isSpecialPromotionDeal": false,
+                "savingsAmount": {
+                    "gross": {
+                        "uom": "GBP",
+                        "value": 7
+                    },
+                    "net": {
+                        "uom": "GBP",
+                        "value": 5.83
+                    },
+                    "vat": {
+                        "uom": "GBP",
+                        "value": 1.17
+                    }
+                },
+                "priority": 112037,
+                "totalContractSavings": {
+                    "gross": {
+                        "uom": "GBP",
+                        "value": 252
+                    },
+                    "net": {
+                        "uom": "GBP",
+                        "value": 209.88
+                    },
+                    "vat": {
+                        "uom": "GBP",
+                        "value": 42.12
+                    }
+                },
+                "duration": {
+                    "value": 36,
+                    "uom": "Months"
+                }
+            },
+            "bundlePriceRise": [
+                {
+                    "monthlyPrice": {
+                        "uom": "£",
+                        "net": 17.34,
+                        "vat": 3.46,
+                        "gross": 20.8
+                    },
+                    "text": "on 1 April 2026"
+                },
+                {
+                    "monthlyPrice": {
+                        "uom": "£",
+                        "net": 18.84,
+                        "vat": 3.76,
+                        "gross": 22.6
+                    },
+                    "text": "on 1 April 2027"
+                },
+                {
+                    "monthlyPrice": {
+                        "uom": "£",
+                        "net": 18.84,
+                        "vat": 3.76,
+                        "gross": 22.6
+                    }
+                }
+            ],
+            "bundleAndHardwarePriceRise": [
+                {
+                    "monthlyPrice": {
+                        "uom": "£",
+                        "net": 41.51,
+                        "vat": 8.29,
+                        "gross": 49.8
+                    },
+                    "text": "on 1 April 2026"
+                },
+                {
+                    "monthlyPrice": {
+                        "uom": "£",
+                        "net": 43.01,
+                        "vat": 8.59,
+                        "gross": 51.6
+                    },
+                    "text": "on 1 April 2027"
+                }
+            ],
+            "monthlyPrice": {
+                "gross": {
+                    "uom": "GBP",
+                    "value": 19
+                },
+                "net": {
+                    "uom": "GBP",
+                    "value": 15.84
+                },
+                "vat": {
+                    "uom": "GBP",
+                    "value": 3.16
+                }
+            },
+            "originalMonthlyPrice": {
+                "gross": {
+                    "uom": "GBP",
+                    "value": 26
+                },
+                "net": {
+                    "uom": "GBP",
+                    "value": 21.67
+                },
+                "vat": {
+                    "uom": "GBP",
+                    "value": 4.33
+                }
+            },
+            "_links": {
+                "select-plan": {
+                    "href": "/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys/b77f3097-d186-4ec2-a86a-7ba95c731594/package",
+                    "type": "PATCH",
+                    "parameters": {
+                        "make": "apple",
+                        "preBuilt": true,
+                        "planId": "121891",
+                        "consumerPlus": true,
+                        "securenetFreeTrialAvailable": false,
+                        "commitmentPeriod": "24 Months",
+                        "journeyId": "b77f3097-d186-4ec2-a86a-7ba95c731594",
+                        "platformSessionId": "7e931db3-b143-4f23-b059-fb3112dc7dfb",
+                        "model": "iphone-16-pro-max",
+                        "productLines": "CTR 25 EVO,Mobile phone service Sellable,Mobile phone service Sellable_NLFL,Mobile phone service Sellable_PrePost,Band Bronze,Any Sales Admin Channel non Indirect"
+                    }
+                }
+            },
+            "id": "121891"
+        },
+        {
+            "name": "Unlimited Plus Xtra",
+            "commitmentPeriod": "24 Months",
+            "isSelected": false,
+            "allowances": [
+                {
+                    "type": "TEXT",
+                    "value": "Unlimited",
+                    "uom": "-"
+                },
+                {
+                    "type": "MIN",
+                    "value": "Unlimited",
+                    "uom": "-"
+                },
+                {
+                    "type": "ORIGDATA",
+                    "value": "Unlimited",
+                    "uom": "-"
+                },
+                {
+                    "type": "DATA",
+                    "value": "Unlimited",
+                    "uom": "-"
+                }
+            ],
+            "oneOffPrice": {
+                "gross": {
+                    "uom": "GBP",
+                    "value": 50
+                },
+                "net": {
+                    "uom": "GBP",
+                    "value": 41.67
+                },
+                "vat": {
+                    "uom": "GBP",
+                    "value": 8.33
+                }
+            },
+            "originaloneOffPrice": {
+                "gross": {
+                    "uom": "GBP",
+                    "value": 50
+                },
+                "net": {
+                    "uom": "GBP",
+                    "value": 41.67
+                },
+                "vat": {
+                    "uom": "GBP",
+                    "value": 8.33
+                }
+            },
+            "eligiblePromotions": {
+                "pricingPromotions": {
+                    "sashBanner": "Save up to £360 on Airtime Plan",
+                    "promotions": [
+                        {
+                            "tag": "cfd12174310gbp36s0514e0612",
+                            "label": "Save up to £360 on Airtime Plan",
+                            "labelWithSavings": "Save £360 achieved by £10 per month saving over 36 months",
+                            "discountId": "121743",
+                            "description": "Save up to £360 on Airtime Plan",
+                            "mpType": "conditional_full_discount",
+                            "priceEstablishedLabel": "Was",
+                            "priority": 112039,
+                            "packageType": [
+                                "SecondLine",
+                                "Upgrade",
+                                "Acquisition"
+                            ],
+                            "footNotes": [
+                                "cfd12174310gbp36s0514e0612"
+                            ],
+                            "belowTheLine": false,
+                            "discountDetails": {
+                                "type": "GBP",
+                                "value": 8.33,
+                                "duration": {
+                                    "uom": "Months",
+                                    "value": 36
+                                }
+                            },
+                            "savingsAmount": {
+                                "gross": "10",
+                                "net": "8.33",
+                                "vat": "1.67"
+                            },
+                            "savingAmount": {
+                                "uom": "£",
+                                "net": 8.33,
+                                "vat": 1.67,
+                                "gross": 10
+                            },
+                            "totalContractSavings": {
+                                "gross": "360",
+                                "net": "299.88",
+                                "vat": "60.12"
+                            },
+                            "totalContractSaving": {
+                                "uom": "£",
+                                "net": 299.88,
+                                "vat": 60.12,
+                                "gross": 360
+                            }
+                        }
+                    ]
+                },
+                "pricePromotions": {
+                    "monthlyPricePromotions": [
+                        {
+                            "tag": "cfd12174310gbp36s0514e0612",
+                            "name": "Save up to £360 on Airtime Plan",
+                            "labelWithSavings": "Save £360 achieved by £10 per month saving over 36 months",
+                            "type": "conditional_full_discount",
+                            "priceEstablishedLabel": "Was",
+                            "savingsAmount": {
+                                "gross": {
+                                    "uom": "GBP",
+                                    "value": 10
+                                },
+                                "net": {
+                                    "uom": "GBP",
+                                    "value": 8.33
+                                },
+                                "vat": {
+                                    "uom": "GBP",
+                                    "value": 1.67
+                                }
+                            },
+                            "priority": 112039,
+                            "totalContractSavings": {
+                                "gross": {
+                                    "uom": "GBP",
+                                    "value": 360
+                                },
+                                "net": {
+                                    "uom": "GBP",
+                                    "value": 299.88
+                                },
+                                "vat": {
+                                    "uom": "GBP",
+                                    "value": 60.12
+                                }
+                            },
+                            "duration": {
+                                "value": 36,
+                                "uom": "Months"
+                            }
+                        }
+                    ],
+                    "totalMonthlySavingsAmount": {
+                        "gross": {
+                            "uom": "GBP",
+                            "value": 10
+                        },
+                        "net": {
+                            "uom": "GBP",
+                            "value": 8.33
+                        },
+                        "vat": {
+                            "uom": "GBP",
+                            "value": 1.67
+                        }
+                    },
+                    "totalContractSavingsAmount": {
+                        "gross": {
+                            "uom": "GBP",
+                            "value": 360
+                        },
+                        "net": {
+                            "uom": "GBP",
+                            "value": 299.88
+                        },
+                        "vat": {
+                            "uom": "GBP",
+                            "value": 60.12
+                        }
+                    }
+                }
+            },
+            "prices": {
+                "monthlyPrices": {
+                    "currentPrice": {
+                        "uom": "£",
+                        "net": 54.17,
+                        "vat": 10.83,
+                        "gross": 65
+                    },
+                    "discountPrice": {
+                        "uom": "£",
+                        "net": 45.84,
+                        "vat": 9.16,
+                        "gross": 55
+                    }
+                },
+                "monthlySavings": {
+                    "currentSavings": {
+                        "uom": "£",
+                        "net": 0,
+                        "vat": 0,
+                        "gross": 0
+                    },
+                    "discountSavings": {
+                        "uom": "£",
+                        "net": 8.33,
+                        "vat": 1.67,
+                        "gross": 10
+                    },
+                    "totalSavings": {
+                        "uom": "£",
+                        "net": 8.33,
+                        "vat": 1.67,
+                        "gross": 10
+                    }
+                },
+                "contractSavings": {
+                    "currentSavings": {
+                        "uom": "£",
+                        "net": 0,
+                        "vat": 0,
+                        "gross": 0
+                    },
+                    "discountSavings": {
+                        "uom": "£",
+                        "net": 299.88,
+                        "vat": 60.12,
+                        "gross": 360
+                    },
+                    "totalSavings": {
+                        "uom": "£",
+                        "net": 299.88,
+                        "vat": 60.12,
+                        "gross": 360
+                    }
+                }
+            },
+            "planPrices": {
+                "monthlyPrices": {
+                    "currentPrice": {
+                        "uom": "£",
+                        "net": 30,
+                        "vat": 6,
+                        "gross": 36
+                    },
+                    "discountPrice": {
+                        "uom": "£",
+                        "net": 21.67,
+                        "vat": 4.33,
+                        "gross": 26
+                    }
+                },
+                "monthlySavings": {
+                    "currentSavings": {
+                        "uom": "£",
+                        "net": 0,
+                        "vat": 0,
+                        "gross": 0
+                    },
+                    "discountSavings": {
+                        "uom": "£",
+                        "net": 8.33,
+                        "vat": 1.67,
+                        "gross": 10
+                    },
+                    "totalSavings": {
+                        "uom": "£",
+                        "net": 8.33,
+                        "vat": 1.67,
+                        "gross": 10
+                    }
+                },
+                "contractSavings": {
+                    "currentSavings": {
+                        "uom": "£",
+                        "net": 0,
+                        "vat": 0,
+                        "gross": 0
+                    },
+                    "discountSavings": {
+                        "uom": "£",
+                        "net": 299.88,
+                        "vat": 60.12,
+                        "gross": 360
+                    },
+                    "totalSavings": {
+                        "uom": "£",
+                        "net": 299.88,
+                        "vat": 60.12,
+                        "gross": 360
+                    }
+                }
+            },
+            "sashBannerPromotion": "Save up to £360 on Airtime Plan",
+            "planPricingPromotion": "Save up to £360 on Airtime Plan",
+            "footNoteCmsIds": [
+                "cfd12174310gbp36s0514e0612"
+            ],
+            "notificationObject": [
+                {
+                    "code": "saving_device-purchase_get-plans_preferential_exact",
+                    "gross": {
+                        "value": 3,
+                        "uom": "GBP"
+                    },
+                    "net": {
+                        "value": 2.5,
+                        "uom": "GBP"
+                    },
+                    "vat": {
+                        "value": 0.5,
+                        "uom": "GBP"
+                    },
+                    "rewardLine": "BroadBand"
+                }
+            ],
+            "type": "UNLIMITED",
+            "subType": "unlimited100mbps",
+            "inclusiveProducts": [
+                {
+                    "id": "030060",
+                    "benefitType": "Advertisement",
+                    "premiumBenefit": true
+                },
+                {
+                    "id": "030010",
+                    "benefitType": "Advertisement",
+                    "premiumBenefit": true
+                },
+                {
+                    "id": "104922",
+                    "name": "Unlimited Picture Messages",
+                    "benefitType": "Product",
+                    "premiumBenefit": true
+                },
+                {
+                    "id": "111871",
+                    "name": "Speed: Maximum download of 100 Mbps",
+                    "premiumBenefit": false
+                }
+            ],
+            "badgeUrl": "https://cdn.vodafone.co.uk/en/assets/images/desktop/5g_badge_digital.png",
+            "topRecommendedPlan": false,
+            "aomRecommended": false,
+            "planDeviceGroups": [
+                8,
+                7,
+                0
+            ],
+            "planBand": "BRONZE",
+            "preBuiltPlanLabel": "Most popular",
+            "features": {
+                "supports5G": true,
+                "supports5GUltra": false,
+                "isCobraBenefitAvailable": false,
+                "isTradeUpBenefitAvailable": false,
+                "isXtraPriorityBenefitAvailable": false
+            },
+            "primaryPromotion": {
+                "tag": "cfd12174310gbp36s0514e0612",
+                "name": "Save up to £360 on Airtime Plan",
+                "labelWithSavings": "Save £360 achieved by £10 per month saving over 36 months",
+                "type": "conditional_full_discount",
+                "priceEstablishedLabel": "Was",
+                "isSpecialPromotionDeal": false,
+                "savingsAmount": {
+                    "gross": {
+                        "uom": "GBP",
+                        "value": 10
+                    },
+                    "net": {
+                        "uom": "GBP",
+                        "value": 8.33
+                    },
+                    "vat": {
+                        "uom": "GBP",
+                        "value": 1.67
+                    }
+                },
+                "priority": 112039,
+                "totalContractSavings": {
+                    "gross": {
+                        "uom": "GBP",
+                        "value": 360
+                    },
+                    "net": {
+                        "uom": "GBP",
+                        "value": 299.88
+                    },
+                    "vat": {
+                        "uom": "GBP",
+                        "value": 60.12
+                    }
+                },
+                "duration": {
+                    "value": 36,
+                    "uom": "Months"
+                }
+            },
+            "bundlePriceRise": [
+                {
+                    "monthlyPrice": {
+                        "uom": "£",
+                        "net": 23.17,
+                        "vat": 4.63,
+                        "gross": 27.8
+                    },
+                    "text": "on 1 April 2026"
+                },
+                {
+                    "monthlyPrice": {
+                        "uom": "£",
+                        "net": 24.67,
+                        "vat": 4.93,
+                        "gross": 29.6
+                    },
+                    "text": "on 1 April 2027"
+                },
+                {
+                    "monthlyPrice": {
+                        "uom": "£",
+                        "net": 24.67,
+                        "vat": 4.93,
+                        "gross": 29.6
+                    }
+                }
+            ],
+            "bundleAndHardwarePriceRise": [
+                {
+                    "monthlyPrice": {
+                        "uom": "£",
+                        "net": 47.34,
+                        "vat": 9.46,
+                        "gross": 56.8
+                    },
+                    "text": "on 1 April 2026"
+                },
+                {
+                    "monthlyPrice": {
+                        "uom": "£",
+                        "net": 48.84,
+                        "vat": 9.76,
+                        "gross": 58.6
+                    },
+                    "text": "on 1 April 2027"
+                }
+            ],
+            "monthlyPrice": {
+                "gross": {
+                    "uom": "GBP",
+                    "value": 26
+                },
+                "net": {
+                    "uom": "GBP",
+                    "value": 21.67
+                },
+                "vat": {
+                    "uom": "GBP",
+                    "value": 4.33
+                }
+            },
+            "originalMonthlyPrice": {
+                "gross": {
+                    "uom": "GBP",
+                    "value": 36
+                },
+                "net": {
+                    "uom": "GBP",
+                    "value": 30
+                },
+                "vat": {
+                    "uom": "GBP",
+                    "value": 6
+                }
+            },
+            "_links": {
+                "select-plan": {
+                    "href": "/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys/b77f3097-d186-4ec2-a86a-7ba95c731594/package",
+                    "type": "PATCH",
+                    "parameters": {
+                        "make": "apple",
+                        "preBuilt": true,
+                        "planId": "121496",
+                        "consumerPlus": true,
+                        "securenetFreeTrialAvailable": false,
+                        "commitmentPeriod": "24 Months",
+                        "journeyId": "b77f3097-d186-4ec2-a86a-7ba95c731594",
+                        "platformSessionId": "7e931db3-b143-4f23-b059-fb3112dc7dfb",
+                        "model": "iphone-16-pro-max",
+                        "productLines": "CTR 25 EVO,Mobile phone service Sellable,Mobile phone service Sellable_NLFL,Mobile phone service Sellable_PrePost,Band Bronze,Any Sales Admin Channel non Indirect"
+                    }
+                }
+            },
+            "id": "121496"
+        }
+    ],
+    "state": "created,DeviceSelected",
+    "journeyType": "acquisition",
+    "packageBuildSummary": {
+        "deviceName": "Apple iPhone 16 Pro Max 256GB Desert Titanium",
+        "deviceTenure": {
+            "value": 36,
+            "uom": "month"
+        },
+        "deviceUpfrontCost": {
+            "gross": {
+                "uom": "GBP",
+                "value": 50
+            },
+            "net": {
+                "uom": "GBP",
+                "value": 41.67
+            },
+            "vat": {
+                "uom": "GBP",
+                "value": 8.33
+            }
+        },
+        "deviceMonthlyCost": {
+            "gross": {
+                "uom": "GBP",
+                "value": 29
+            },
+            "net": {
+                "uom": "GBP",
+                "value": 24.17
+            },
+            "vat": {
+                "uom": "GBP",
+                "value": 4.83
+            }
+        },
+        "deviceTotalCost": {
+            "gross": {
+                "uom": "GBP",
+                "value": 1094
+            },
+            "net": {
+                "uom": "GBP",
+                "value": 911.67
+            },
+            "vat": {
+                "uom": "GBP",
+                "value": 182.33
+            }
+        },
+        "totalUpfrontCost": {
+            "gross": {
+                "uom": "GBP",
+                "value": 50
+            },
+            "net": {
+                "uom": "GBP",
+                "value": 41.67
+            },
+            "vat": {
+                "uom": "GBP",
+                "value": 8.33
+            }
+        },
+        "totalMonthlyCost": {
+            "gross": {
+                "uom": "GBP",
+                "value": 29
+            },
+            "net": {
+                "uom": "GBP",
+                "value": 24.17
+            },
+            "vat": {
+                "uom": "GBP",
+                "value": 4.83
+            }
+        },
+        "buildSteps": [
+            {
+                "name": "Device",
+                "done": true
+            },
+            {
+                "name": "Plan",
+                "done": false
+            },
+            {
+                "name": "Insurance",
+                "done": false
+            },
+            {
+                "name": "Add-ons",
+                "done": false
+            },
+            {
+                "name": "Accessories",
+                "done": false
+            },
+            {
+                "name": "Business-Apps",
+                "done": false
+            }
+        ],
+        "cta": {
+            "name": "Continue",
+            "isEnabled": false
+        }
+    },
+    "segment": "consumer",
+    "subSegment": "consumer",
+    "numberOfFiltersApplied": 0,
+    "numberOfPlans": 3,
+    "numberOfFilteredPlans": 3,
+    "deviceGroup": 7,
+    "finiteFamilyDiscountAvailable": false,
+    "unlimitedFamilyDiscountAvailable": false,
+    "_links": {
+        "select-new-customer": {
+            "href": "/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys/b77f3097-d186-4ec2-a86a-7ba95c731594/actions/new-or-existing-customer",
+            "type": "POST",
+            "parameters": {
+                "make": "apple",
+                "journeyId": "b77f3097-d186-4ec2-a86a-7ba95c731594",
+                "platformSessionId": "7e931db3-b143-4f23-b059-fb3112dc7dfb",
+                "model": "iphone-16-pro-max",
+                "isExisting": false
+            }
+        },
+        "select-existing-customer": {
+            "href": "/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys/b77f3097-d186-4ec2-a86a-7ba95c731594/actions/new-or-existing-customer",
+            "type": "POST",
+            "parameters": {
+                "make": "apple",
+                "journeyId": "b77f3097-d186-4ec2-a86a-7ba95c731594",
+                "platformSessionId": "7e931db3-b143-4f23-b059-fb3112dc7dfb",
+                "model": "iphone-16-pro-max",
+                "isExisting": true
+            }
+        },
+        "select-device-variant": {
+            "href": "/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys/b77f3097-d186-4ec2-a86a-7ba95c731594/package",
+            "type": "PATCH",
+            "parameters": {
+                "deviceId": "222520",
+                "make": "apple",
+                "journeyId": "b77f3097-d186-4ec2-a86a-7ba95c731594",
+                "platformSessionId": "7e931db3-b143-4f23-b059-fb3112dc7dfb",
+                "model": "iphone-16-pro-max"
+            }
+        },
+        "get-device-group-journey": {
+            "href": "/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys/latest?segment=consumer",
+            "type": "GET",
+            "parameters": {
+                "make": "apple",
+                "platformSessionId": "7e931db3-b143-4f23-b059-fb3112dc7dfb",
+                "model": "iphone-16-pro-max"
+            }
+        },
+        "create-device-group-journey": {
+            "href": "/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys?segment=consumer",
+            "type": "POST",
+            "parameters": {
+                "make": "apple",
+                "segment": "consumer",
+                "platformSessionId": "7e931db3-b143-4f23-b059-fb3112dc7dfb",
+                "model": "iphone-16-pro-max"
+            }
+        },
+        "get-device-variants": {
+            "href": "/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys/b77f3097-d186-4ec2-a86a-7ba95c731594/device-variants",
+            "type": "GET",
+            "parameters": {
+                "make": "apple",
+                "journeyId": "b77f3097-d186-4ec2-a86a-7ba95c731594",
+                "platformSessionId": "7e931db3-b143-4f23-b059-fb3112dc7dfb",
+                "model": "iphone-16-pro-max"
+            }
+        },
+        "get-insurance-options": {
+            "href": "/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys/b77f3097-d186-4ec2-a86a-7ba95c731594/device-variants/222520/insurance-options",
+            "type": "GET",
+            "parameters": {
+                "deviceId": "222520",
+                "make": "apple",
+                "journeyId": "b77f3097-d186-4ec2-a86a-7ba95c731594",
+                "platformSessionId": "7e931db3-b143-4f23-b059-fb3112dc7dfb",
+                "model": "iphone-16-pro-max"
+            }
+        },
+        "get-specification": {
+            "href": "/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys/b77f3097-d186-4ec2-a86a-7ba95c731594/device-variants/222520/specification",
+            "type": "GET",
+            "parameters": {
+                "deviceId": "222520",
+                "make": "apple",
+                "journeyId": "b77f3097-d186-4ec2-a86a-7ba95c731594",
+                "platformSessionId": "7e931db3-b143-4f23-b059-fb3112dc7dfb",
+                "model": "iphone-16-pro-max"
+            }
+        },
+        "set-dgj-segment": {
+            "href": "/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys/b77f3097-d186-4ec2-a86a-7ba95c731594",
+            "type": "PATCH",
+            "parameters": {
+                "make": "apple",
+                "journeyId": "b77f3097-d186-4ec2-a86a-7ba95c731594",
+                "segment": "business",
+                "platformSessionId": "7e931db3-b143-4f23-b059-fb3112dc7dfb",
+                "model": "iphone-16-pro-max"
+            }
+        },
+        "set-trade-in": {
+            "href": "/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys/b77f3097-d186-4ec2-a86a-7ba95c731594/device-variants",
+            "type": "PATCH",
+            "parameters": {
+                "deviceId": "222520",
+                "make": "apple",
+                "journeyId": "b77f3097-d186-4ec2-a86a-7ba95c731594",
+                "tradeInSelected": true,
+                "platformSessionId": "7e931db3-b143-4f23-b059-fb3112dc7dfb",
+                "model": "iphone-16-pro-max"
+            }
+        }
+    }
+}

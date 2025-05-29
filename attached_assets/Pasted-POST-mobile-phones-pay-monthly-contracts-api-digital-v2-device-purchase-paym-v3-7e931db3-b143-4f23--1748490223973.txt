@@ -1,0 +1,23 @@
+POST /mobile/phones/pay-monthly-contracts/api/digital/v2/device-purchase/paym/v3/7e931db3-b143-4f23-b059-fb3112dc7dfb/apple/iphone-16-pro-max/device-group-journeys/b77f3097-d186-4ec2-a86a-7ba95c731594/package HTTP/1.1
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9,en-GB;q=0.8
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 88
+Content-Type: application/json
+Cookie: smapi_subject_id=35e319f1-bd39-4465-8f95-8fc8084354ce; smapi_install_id=35e319f1-bd39-4465-8f95-8fc8084354ce; OptanonAlertBoxClosed=2025-05-28T00:03:05.881Z; eShop-auth-prod1_id_token=or%2FE0pXOISqVTEIz%2FR3%2BdUdPY6ajFa3dZ9GOTtHDd0wGKIPjRnm6wt%2F04h16kdxPgw2U5PAgruqCxomqr9c4X8p0XJ4Zv5JLds%2BpPT%2Bi%2B6tBfcBmATgw1MoqooCYiKmyz1pbMuPz3kziWttUjTUImXxH06V992k5EgdTtxk84b1Ahr9fdF%2BgL5PzcSJ%2BBdtFuwYZKqdafhzsuXT%2BdNWSokg65KJN463h8cGxIr%2B8N5H7MglZwnCiS3n3n%2BwU%2FVp8h0YJ6QFHFJUGDdNAPT9%2BbrdXrwlsPMo30Pimyp8OdGcVVtpwMFgswUgsb7pTwK7wTXGzDY3mcGcyqQ8qlqVDcSr8uVnNs1D2nvhAM%2FkdUNM9Tw17oKkufb5craI%2FwZ6tZtdaqdhcGV2xO1sMYqcH0hREbpuv0i5QEYd5bzGReaonFIm0DhP2mxA2bszDUrPR8IOLeW0TURzaNUhkTGP6lIqK7J9ECT%2FcbK0zEwD%2BMwTWKUOBG2nwze01BkQ0x95Gm1NkQYGBfNJ9MJObUF2d%2F0EoiZG2%2BDdzy%2BJVwKucbEwgRnrZfnxHCMT4acxyWhfrGnpPZxoQAFprLpLGmxucpD3lGbSL89p%2B2teD%2FQOjWiHSRC%2FJAxAE0B10pPJDj8dLFYsdONXhV7SKbCV6m7KUPPkkhqjU6RmOUYeEc6pdALI2pq4g29G90QVCyKZz1UWGyCVdrbTadRDKXdR7ESIvS1rannbAYi1ZceGP6X2s9UlFYQXgDISFTKyLweELHC9It44Hn0cmT6S1bEVz1h3QQ4bA241agl0i%2FFQ8Nhr4sFJWtvTG56O8lf99JDLCIxJSzjcYTjL9dr8e3schzsPhyJxhjbxuwJo42zOqHXWUZRhK%2Be10rAeGclR5VGDIK20JCqUUWtzV65uznPX660%2FBfOp586I0O7azq31i53K%2F3cqay5JZal0mkv1aq8eDS%2FU8KT13hDGiGiqd9%2B%2FxhYtEUwLOwBClArOVKoaszWH3NsgpUg1WQNvFmpVeyI8rqaArx9HGTowhmj1id43VQNPe6p0IRFfnLc6gZIt%2FZNaRi75FfCHaqLdxTFABhTbOGLr930wJJhhIjXtLTG1VzK%2FNxFwETr%2BjOfVVkuiw9dT2wp8ff3rsX%2FLHW6pH75lZyMQ%2FkQdaJa6B%2FPovCF97RqZkvce8QGOsxbknx8V%2BhP%2BNbj7WvyoH28MRhcVzOtJ1k9xluq2l0ImFxaSvMifsB51HsJemBQbnVvtjuN9Pj5zIVjVTGTzAX3frLEHNplm5wBCg5vHUd983M3TRPNyL6kGYGQt0Ep8uc6TgklTUb4DT9FhxQ%2FWeZJ%2BJXlzRO8wE%2Ff2SybRLWsgEWNGIm43U1NsHVa3W0SInLneMgD%2BAipezdL1We2LyTyFL8r54CKH4FkalS6s1j1l%2FlOk1swRunbbr6AECOqP8%2FZLALpTxGo2ACKw%3D; eShop-auth-prod1_p_id_token=j%3A%7B%22platformSessionId%22%3A%227e931db3-b143-4f23-b059-fb3112dc7dfb%22%2C%22assuranceLevel%22%3A0%2C%22cookieExpiry%22%3A1748472984000%2C%22phoneNumberHash%22%3Anull%2C%22contactIdHash%22%3Anull%2C%22usernameHash%22%3Anull%2C%22subscriptionIdHash%22%3Anull%2C%22subscriptionBillingAccountId%22%3Anull%2C%22subscriptionBillingProfileId%22%3Anull%2C%22subscriptionBillingAccountIdHash%22%3Anull%2C%22subscriptionBillingProfileIdHash%22%3Anull%2C%22platformSessionIdHash%22%3A%2258713f473bd6dad37387b900458930cb719a20fbc07d60b518045f5b717bbe90%22%7D; _cs_mk_aa=0.5171467481991355_1748469389866; TS01bb836e=01ec873d401a9b30ed3a01dafcc9e78c874ce9f58b233c564f6cf4e96a02f9bb1cc41824ef8d98a7bf98d9552bfb5288d78805ad81; OptanonConsent=landingPath=NotLandingPage&datestamp=Wed+May+28+2025+22%3A57%3A54+GMT%2B0100+(British+Summer+Time)&version=202308.1.0&groups=1%3A1%2C3%3A1%2C2%3A1%2C4%3A0&hosts=&consentId=df3573b4-ebdc-4e1a-86f5-92e101540a1f&interactionCount=2&isGpcEnabled=1&browserGpcFlag=1&geolocation=GB%3BENG&isIABGlobal=false&AwaitingReconsent=false; s_plt=18.91%2Cuk%3Eshop%3Ehandset%3Epaym%3Eproduct%3Eapple%3Eiphone-16-pro-max%3Eoverlay%3Eexisting%20customer; TS2ce8c2a5027=084d7f0589ab20003344fb77a67c7d5ba7fe47086a2d802831a19a0ec2f5d0e81d6bfefdc734613808cf5ef768113000059dc96809614a6759c1ca1a839e9e178ae816380b215ba71edc57f02c0c9af6dd48daef7e0b9ad9d99bd21650255498; utag_main=_sn:6$_se:12$_ss:0$_st:1748471310590$vapi_domain:vodafone.co.uk$v_id:0197143348980002239f795130b20506f00a006700bd0$dc_visit:3$ses_id:1748469388950%3Bexp-session$_pn:3%3Bexp-session$_prevpage:uk%3Eshop%3Ehandset%3Epaym%3Eproduct%3Eapple%3Eiphone-16-pro-max%3Ephone%20plan%3Bexp-1748473110598$dc_event:4%3Bexp-session; _dd_s=logs=1&id=67e84122-5dd9-4441-ad7a-045c347c2f2f&created=1748469390238&expire=1748470410570
+DNT: 1
+Host: www.vodafone.co.uk
+Origin: https://www.vodafone.co.uk
+Referer: https://www.vodafone.co.uk/mobile/phones/pay-monthly-contracts/apple/iphone-16-pro-max
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+X-HTTP-Method-Override: PATCH
+dalHeaders: {"Accept":"application/hal+json"}
+sec-ch-ua: "Chromium";v="136", "Google Chrome";v="136", "Not.A/Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-gpc: 1
